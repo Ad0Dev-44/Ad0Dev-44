@@ -18,7 +18,7 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 - 🛠️ Building experience in structuring and normalizing a **SQL-based Data Warehouse project**
 - 📊 Skilled in **data analysis and visualization using SQL, Python, and Power BI**
 - 📄 Proficient in **technical documentation using LaTeX**
-- 🌱 Currently learning **Docker and Data Engineering concepts (ETL, pipelines, scalability)**
+- 🌱 Currently learning **Data Engineering concepts (ETL, pipelines, scalability)**
 
 ---
 
