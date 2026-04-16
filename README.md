@@ -56,17 +56,6 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ad0-dev44&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ad0-dev44&show_icons=true&locale=en&layout=compact" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
