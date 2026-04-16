@@ -58,7 +58,7 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 
 ---
 ## My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=java,python,sql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,Mysql,html,css)](https://skillicons.dev)
 
 ## 🤝 Connect With Me
 
