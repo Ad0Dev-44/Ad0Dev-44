@@ -31,7 +31,7 @@ Building a robust foundation in data engineering, analytics, and scalable system
 - Based on real-world data engineering concepts  
 
 ### 🚀 Alien Invasion (2D Game)
-👉 https://github.com
+👉 [https://github.com/Ad0Dev-44/alien_invasion-project](https://github.com/Ad0Dev-44/alien_invasion)
 - Developed a retro-style arcade shooter using **Python** and **Pygame**
 - Implemented core game loops, collision detection, and dynamic difficulty scaling
 - Practiced Object-Oriented Programming (OOP) based on the curriculum of **"Python Crash Course" by Eric Matthes**
