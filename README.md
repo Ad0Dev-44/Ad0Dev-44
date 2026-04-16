@@ -57,7 +57,8 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 - HTML • CSS
 
 ---
-
+## My Toolbox
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🤝 Connect With Me
 
