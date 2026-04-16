@@ -57,7 +57,10 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 - HTML • CSS
 
 ---
-## My Toolbox
+
+## 💻 Core Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad0Dev-44&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,sqlite,html,css)](https://skillicons.dev)
 
 ## 🤝 Connect With Me
