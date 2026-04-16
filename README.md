@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Engineer | SQL • Python • Data Warehousing</h3>
 
 <p align="center">
-Building strong foundations in data engineering, analytics, and scalable data systems.
+Building a robust foundation in data engineering, analytics, and scalable systems, complemented by diverse technical side projects.
 </p>
 
 <p align="center">
@@ -29,6 +29,12 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 - Designed and normalized a structured data warehouse  
 - Implemented relational schemas and optimized queries  
 - Based on real-world data engineering concepts  
+
+### 🚀 Alien Invasion (2D Game)
+👉 https://github.com
+- Developed a retro-style arcade shooter using **Python** and **Pygame**
+- Implemented core game loops, collision detection, and dynamic difficulty scaling
+- Practiced Object-Oriented Programming (OOP) based on the curriculum of **"Python Crash Course" by Eric Matthes**
 
 ### ⚙️ C++ Hashing Project
 👉 https://github.com/Ad0Dev-44/hashing-open-addressing-project  
@@ -79,4 +85,5 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 
 - Data Warehousing & Schema Design  
 - ETL Pipelines & Data Engineering Workflows  
-- Writing efficient, scalable SQL queries   
+- Writing efficient, scalable SQL queries
+
