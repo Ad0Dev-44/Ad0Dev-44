@@ -15,7 +15,7 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 ## 🚀 About Me
 
 - 🎯 Focused on becoming a **Data Engineer**, with strong interest in **data pipelines and warehousing**
-- 🛠️ Experienced in building and normalizing a **SQL-based Data Warehouse project**
+- 🛠️ Building experience in structuring and normalizing a **SQL-based Data Warehouse project**
 - 📊 Skilled in **data analysis and visualization using SQL, Python, and Power BI**
 - 📄 Proficient in **technical documentation using LaTeX**
 - 🌱 Currently learning **Docker and Data Engineering concepts (ETL, pipelines, scalability)**
@@ -40,7 +40,7 @@ Building strong foundations in data engineering, analytics, and scalable data sy
 ## 🛠️ Tech Stack
 
 ### 💾 Data & Analytics
-- SQL (MySQL, SQL Server)
+- SQL (SQL Server)
 - Python (data handling & analysis)
 - Power BI (data visualization)
 
