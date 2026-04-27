@@ -60,7 +60,9 @@ Building a robust foundation in data engineering, analytics, and scalable system
 - Java
 
 ### 🌐 Web (Basic)
-- HTML • CSS
+- HTML
+- CSS
+- WebAssembly (currently learning)
 
 ---
 
