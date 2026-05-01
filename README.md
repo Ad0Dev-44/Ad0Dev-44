@@ -1,6 +1,6 @@
 
 <h1 align="center">Adrian El-Rahi</h1>
-<h3 align="center">Aspiring Data Engineer | SQL • Python • Data Warehousing</h3>
+<h3 align="center">Aspiring Computer Engineer | SQL • Python • Data Warehousing</h3>
 
 <p align="center">
 Building a robust foundation in data engineering, analytics, and scalable systems, complemented by diverse technical side projects.
@@ -14,9 +14,9 @@ Building a robust foundation in data engineering, analytics, and scalable system
 
 ## 🚀 About Me
 
-- 🎯 Focused on becoming a **Data Engineer**, with strong interest in **data pipelines and warehousing**
-- 🛠️ Building experience in structuring and normalizing a **SQL-based Data Warehouse project**
-- 📊 Skilled in **data analysis and visualization using SQL, Python, and Power BI**
+- 🎯 Passionate about the **data lifecycle**, with a deep interest in exploring **data architecture and optimized storage solutions**.
+- 🛠️ Applied fundamental concepts of **database normalization** through a self-driven **SQL Data Warehouse project**.
+- 📊 Developing skills in **Power BI** to create visual reports and dashboards from processed data.
 - 📄 Proficient in **technical documentation using LaTeX**
 - 🌱 Currently learning **Data Engineering concepts (ETL, pipelines, scalability)**
 
